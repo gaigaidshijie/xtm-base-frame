@@ -1,0 +1,2 @@
+catTransaction=com.xtm.servicecall.dubbo.CatTransactionFilter
+appnameAppend=com.xtm.servicecall.dubbo.AppNameAppendFilter
